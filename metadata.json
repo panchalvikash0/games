@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Serpent 100",
+  "description": "High-octane neon cyberpunk HTML5 Snake game with 100+ procedural levels, smooth lerp movement, synth sound effects, portals, hazards, and boss stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
